@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @islembraham
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Full Stack JavaScript Development
+- 🌱 I’m currently learning Full Stack JavaScript Development (MERN Stack)
 - 💞️ I’m looking to collaborate on Web Application Projects
 - 📫 How to reach me : islem.braham.tn@gmail.com
 
